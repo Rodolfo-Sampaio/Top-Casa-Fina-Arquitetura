@@ -73,6 +73,10 @@ footer address:last-child {
     margin-bottom: 0;
 }
 
+.jumbotron {
+    margin-top: 20px;
+}
+
 
 @media screen and (min-width:768px) {
     #paineis-sobre {
@@ -91,9 +95,7 @@ footer address:last-child {
         width: 100%;
     }
 
-  /*   .titulo-depoimentos {
-        margin-right: 0;
-        margin-left: 0; 
-        width: 100%;
-    } */
+    .jumbotron {
+        margin-top: 40px;
+    }
 }
