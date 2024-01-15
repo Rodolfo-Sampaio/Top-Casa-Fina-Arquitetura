@@ -44,7 +44,7 @@ Veja nosso site adaptável em 🚩[TopCasaFina](https://top-casa-fina-arquitetur
 <br>
 
 
-### "Olá, arquiteto do código! 👷‍♂️ Bem-vindo ao 'Ateliê de Arquitetura Code', onde cada linha de código é uma fundação para o sucesso digital! Se você apreciou a construção, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos projetar juntos desafios arquitetônicos de código! 🏰💻 #CodeArchitect"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
 
